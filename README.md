@@ -21,12 +21,9 @@ This project utilizes **Symbolic Regression (PySR)** to discover the underlying 
 ### 1. The Pareto Front
 We identify the "Physical Law" not by the lowest error alone, but by the "elbow" in the Pareto Front, where accuracy meets mathematical simplicity.
 
-*(Insert your Pareto Front Plot here: `The Pareto Front- Accuracy vs. Simplicity in Potential Discovery.png`)*
-
 ### 2. Extrapolation Power (The Special Sauce)
 This plot illustrates why this work is superior to "Black Box" AI. In the **unseen "Danger Zone"** (where atoms get dangerously close), the Symbolic Model respects physics while the Neural Network fails.
 
-*(Insert your Extrapolation Plot here: `images/extrapolation.png`)*
 
 ## 🛠️ Technical Stack
 * **Symbolic Engine:** [PySR](https://github.com/MilesCranmer/PySR) (High-performance Symbolic Regression via Julia)
@@ -41,5 +38,5 @@ This plot illustrates why this work is superior to "Black Box" AI. In the **unse
 4.  **Validation:** Models were validated using parity plots and residual distribution analysis.
 
 ---
-**Author:** [Your Name]  
+**Author:** Mudit Srivastava
 **Topic:** Machine Learning for Physics / Molecular Modeling
